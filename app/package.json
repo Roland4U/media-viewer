@@ -35,7 +35,7 @@
     "is-electron-renderer": "^2.0.1",
     "is-online": "^7.0.0",
     "izitoast": "^1.1.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "json-stringify-safe": "^5.0.1",
     "klaw-sync": "^2.1.0",
     "lru-cache": "^4.0.2",
