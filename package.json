@@ -44,7 +44,7 @@
 		"cp-file": "^4.2.0",
 		"del": "^2.2.2",
 		"devtron": "^1.4.0",
-		"electron": "^1.7.1",
+		"electron": "^9.4.0",
 		"electron-builder": "^18.3.0",
 		"electron-compilers": "^5.9.0",
 		"electron-rebuild": "^1.5.11",
